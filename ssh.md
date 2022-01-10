@@ -20,6 +20,6 @@ IdentityFile ~/.ssh/targaryen.key
 
 como ficou:
 Host vps
-HostName 3.138.203.27
+HostName 192.168.1.7
 User root
 IdentityFile ~/.ssh/id_rsa
